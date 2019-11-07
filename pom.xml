@@ -149,5 +149,12 @@
             </plugin>
         </plugins>
     </build>
+    
+    <developers>
+    	<developer>
+    		<name> Kaio Soato</name>
+    		<email> kaiosoato@kaio.com</email>
+    	</developer>
+    </developers>
 
 </project>
